@@ -1,0 +1,88 @@
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\MaterialSkin.dll
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CoreCompileInputs.cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csprojResolveAssemblyReference.cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.Cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CoreCompileInputs.cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\ShiftTechFramework.dll
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\PA.Picture.dll
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csprojResolveAssemblyReference.cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.Cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CoreCompileInputs.cache
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+C:\Users\Iuli\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csprojResolveAssemblyReference.cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.Cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CoreCompileInputs.cache
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+C:\Users\FISHU\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+C:\Users\superveve\Desktop\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csprojResolveAssemblyReference.cache
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+C:\Users\superveve\Desktop\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.Cache
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\itmarathon.mdf
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\itmarathon_log.ldf
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\itmarathon.exe.config
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\itmarathon.exe
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\itmarathon.pdb
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\bin\Debug\AfriCircleImage.dll
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.csprojAssemblyReference.cache
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.Form1.resources
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.Form2.resources
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.Properties.Resources.resources
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.GenerateResource.cache
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CoreCompileInputs.cache
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.csproj.CopyComplete
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.exe
+F:\Recover CRUZER STICK\Recovered data 03-19-2019 at 21_50_57\NTFS 1\itmarathon\itmarathon\obj\Debug\itmarathon.pdb
